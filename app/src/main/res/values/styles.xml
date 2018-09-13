@@ -1,0 +1,101 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="pic">
+
+        <item name="android:layout_width">86dp</item>
+        <item name="android:layout_height">73dp</item>
+
+    </style>
+
+    <style name="sjh">
+        <item name="android:background">#989898</item>
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:text">"Song Ji Hyo"</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="ace">
+        <item name="android:background">#989898</item>
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:text">The Ace</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="content1">
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:background">#989898</item>
+        <item name="android:text">"Song Ji Hyo is a popular South Korean actress. Born on August 15, 1981, as Cheon Seong Im, she always wanted to become an actress and chose her stage name from two famous actors, Song Seung Heon and Song Hye Gyo"</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+
+    <style name="kjk">
+        <item name="android:background">#989898</item>
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:text">"Kim Jong kook"</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="sparta">
+        <item name="android:background">#989898</item>
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:text">"The Sparta"</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="content2">
+        <item name="android:background">#989898</item>
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:text">"South Korean singer, entertainer and actor. Kim debuted as a member of South Korean duo Turbo in 1995. The duo considered to be one of the most popular idol in that time and sold out millions album in South Korea and Asia."</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+
+    <style name="lks">
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:background">#989898</item>
+        <item name="android:text">"Lee Kwang Soo"</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="girin">
+
+        <item name="android:background">#989898</item>
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:text">"The Giraffe"</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="content3">
+        <item name="android:background">#989898</item>
+        <item name="android:layout_width">351dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:text">"A South Korean actor, entertainer and model. He made his acting debut in the sitcom &quot;Here He Comes&quot;. He then received further recognition for his roles in the medical melodrama It's Okay, That's Love."</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+
+
+</resources>
